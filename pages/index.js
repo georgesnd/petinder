@@ -1,8 +1,7 @@
-
+import newBan from "./components/ImgFolder/newBan.jpg";
 import Head from "next/head";
 import Image from "next/image";
 import Link from "next/link";
-import banner from "./components/ImgFolder/banner.jpg";
 import styles from "../styles/banner.module.css";
 import dog1 from "./components/ImgFolder/dog1.jpg";
 import dog2 from "./components/ImgFolder/dog2.jpg";
@@ -38,7 +37,7 @@ export default function Home() {
         <main className={styles.main}>
         
           <div className={styles.banner}>
-            <Image src={banner} alt="bannerPic" />
+            <Image width={2000} height={500} src={newBan} alt="bannerPic" className={styles.bannerimg} />
           </div>
           <div className={styles.testimonies}>
 

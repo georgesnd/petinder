@@ -1,7 +1,7 @@
 .banner {
     width: 100%;
-   
 }
+
 .testimonies{
     background-color: pink;
 }
@@ -110,7 +110,7 @@
     background-position: center;
     object-fit: contain;
     background-size: 100%;
-    color:black;
+    color:white;
     text-align: center;
     position: relative;
     padding: 30px;
