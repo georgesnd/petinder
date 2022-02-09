@@ -1,0 +1,128 @@
+.banner {
+    width: 100%;
+   
+}
+.testimonies{
+    background-color: pink;
+}
+
+.reviews {
+   width: 60%;
+   margin-left: 20%;
+   background-color: whitesmoke;
+   padding: 5%;
+   margin-top: -10px;
+}
+.reviews h1 {
+    text-align: center;
+    color: blueviolet;
+}
+.reviews p {
+    font-size: 18px;
+    padding: 80px;
+    
+}
+.review{
+    height: 300px;
+    margin-top: 20px;
+}
+.img{
+    border-radius: 50%;
+    float: right;
+ 
+}
+
+
+.float1 {
+    float: right;
+    margin-left: 20px;
+}
+.float2 {
+    float: left;
+    margin-right: 20px;
+}
+
+.mainAdvices{
+    display: flex;
+    
+    height: 300px;
+    
+}
+.advice {
+    background-color: white;
+    padding-left: 20%;
+    margin-top: 50px;
+}
+.advice h1 {
+    padding-left: 20%;
+    padding-top: 20px;
+}
+.advices h6 {
+    color: blueviolet;
+}
+.advices button {
+    padding: 10px;
+    width: 50%;
+    border-radius: 20px;
+    color: blueviolet;
+    text-transform: uppercase;
+}
+.advices {
+    width: 400px;
+    margin-top: 40px;
+    /* border: 2px solid gray; */
+    text-align: center;
+    padding: 10px;
+    font-size: 15px;
+}
+.advices h5 {
+    color: rgb(61, 56, 56);
+}
+.meetFriend{
+    background-color: pink;
+}
+.petStyle {
+    display: flex;
+    margin-left: 20%;
+}
+.AllPetStyle {
+    background-color: pink;
+}
+.AllPetStyle h1 {
+    margin-left: 40%;
+    margin-bottom: 30px;
+    padding-top: 30px;
+
+}
+.viewAllButton {
+    margin-left: 42%;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    border-radius: 20px;
+    color: blueviolet;
+    text-transform: uppercase;
+    padding: 18px;
+    width: 16%;
+}
+.FootContainer {
+    background-image:  linear-gradient(to bottom, rgba(180, 180, 173, 0.7), rgba(186, 186, 211, 0.7)), url(../pages/components/ImgFolder/dogbackground.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    object-fit: contain;
+    background-size: 100%;
+    color:black;
+    text-align: center;
+    position: relative;
+    padding: 30px;
+    font-weight: lighter;
+}
+.FootContainer button {
+    padding: 10px;
+    color: blueviolet;
+    border-radius: 20px;
+}
+
+ /* .FootContainer  {
+    text-align: center;
+    width: 300px;
+} */

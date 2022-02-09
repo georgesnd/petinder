@@ -1,0 +1,152 @@
+
+
+  .chatModule {
+    border: 3px solid rgb(190, 190, 230);
+    border-radius: 10px;
+    display: flex;
+    height: 80vh;
+    width: 90%;
+    margin:2% 5%;
+    background-color: rgb(240, 240, 250);
+}
+.chatOne {
+   
+    align-items: center;
+    padding: 20px;
+    width: 600px;
+    border-top: 2px solid rgb(190, 190, 230);
+    display: flex;
+    
+  }
+  .chatOne:hover {
+      background-color: rgb(241, 197, 205);
+  }
+
+  .allMessages {
+    overflow-y: scroll;
+    border-right: 3px solid rgb(190, 190, 230);
+    overflow-x: hidden;
+  }
+  .allMessages h2 {
+      margin-left: 20px;
+      color: rgb(114, 114, 221);
+      text-shadow: 2px 2px rgb(190, 190, 230);
+      padding: 5px;
+  }
+  .messageForm {
+      display: flex;
+      padding: 5px;
+      position: absolute;
+      bottom: 60px;
+      width: 100%;
+      border: 2px solid gray;
+      border-radius: 20px;
+      margin-left: 45px;
+      width: 1000px;
+      background-color: white;
+  }
+  .messageInput {
+      flex:1;
+      padding: 10px;
+      border: none;
+  }
+  /* .messageInput:focus {
+     border: none;
+     
+  }  */
+  .inputButton {
+      border: none;
+      margin-right: 20px;
+      background-color: white;
+      color: indigo;
+  }
+  
+  .send {
+      transform: scale(1.5);
+  }
+  
+ 
+  .activeMessage{
+     width: 1091px;
+      
+  }
+  .chatMessages {
+      margin: 20px;
+  }
+  
+  .chatDetails{
+      display: flex; 
+      justify-content: space-between; 
+      width: 400px;
+  }
+  
+  .chatDetails p {
+      color: gray;
+      flex: 1;
+      margin-left: 20px;
+    
+  }
+  .chatDetails h3 {
+    color: gray;
+    flex: 2;
+    margin-left: 20px;
+}
+  
+  .chatImage {
+      border-radius: 50%;
+  }
+  .chatHeader div {
+      margin-left: 50px;
+  }
+  .chatHeader {
+      display: flex;
+      border-bottom: 2px solid rgb(190, 190, 230);;
+      padding: 10px;
+      padding-left: 20px;
+      background-color: rgb(240, 240, 250);
+      align-items: center;
+     
+    
+  }
+  .chatHeader h3 {
+      flex: 3;
+      margin-left: 20px;
+      color: indigo;
+  }
+  .chatHeader p {
+      margin-right: 55px;
+  }
+  .chatMessages div{
+      text-align: left;
+      background-color: lightblue;
+      width: 150px;
+      border-radius: 20px;
+      padding: 10px;
+      margin-bottom: 18px;
+      margin-left: 50px;
+     
+  }
+  .chatMessages p span{
+      background-color:rgb(241, 197, 205);
+      border-radius: 20px;
+      padding: 10px;
+  }
+  .chatMessages p {
+      text-align: right;
+      margin-right: 50px;
+  }
+  .tick{
+      color: lightgreen;
+  }
+
+ .chatHead {
+     display: flex;
+     justify-content: space-between;
+     padding-right: 25px;
+     align-items: center;
+     padding-top: 9px;
+     padding-bottom: 9px;
+ }
+ .msgIcon{
+    transform: scale(2);
+ }

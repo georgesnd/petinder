@@ -1,0 +1,29 @@
+.icons{
+    display: flex;
+    justify-content: center;
+    border-style: none;
+    bottom: 6rem;
+    left: 16rem;
+    position: absolute;
+    
+    
+}
+.icons svg{
+    position: absolute;
+    border: 5px rgb(255, 208, 0) solid;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 0, 0);
+    font-size: 75px;
+    padding: 7px;
+    padding-top: 10px;
+}
+.custombutton {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+} 
+.popup{
+    position: absolute;
+ 
+}

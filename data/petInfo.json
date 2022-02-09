@@ -1,0 +1,164 @@
+[
+    {
+      "id": 1,
+      "name": "Bruh",
+      "breed": "French Bulldog",
+      "age": 3,
+      "img": "https://images.unsplash.com/photo-1598133894008-61f7fdb8cc3a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZG9nc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60",
+      "bio": "This is my bio.",
+      "character": {
+        "friendly": 80,
+        "energy": 90,
+        "health": 80,
+        "anger" : 10,
+        "shy" : 10
+      }
+
+    },
+    {
+        "id": 2,
+        "name": "Coco",
+        "breed": "Husky",
+        "age": 10,
+        "character": {
+          "friendly": 89,
+          "energy": 18,
+          "health": 10, 
+          "anger" : 50,
+          "shy" : 50
+        },
+        "img": "https://images.unsplash.com/photo-1568572933382-74d440642117?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8ZG9nc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60",
+        "bio": "This is my bio."
+  
+      },
+      {
+        "id": 3,
+        "name": "Mocha",
+        "breed": "French Bulldog",
+        "age": 6,
+        "character": {
+          "friendly": 56,
+          "energy": 30,
+          "health": 60,
+          "anger" : 60,
+          "shy" : 10
+        },
+        "img": "https://images.unsplash.com/photo-1517423440428-a5a00ad493e8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=749&q=80",
+        "bio": "This is my bio."
+  
+      },
+      {
+        "id": 4,
+        "name": "Papa",
+        "breed": "Corgi",
+        "age": 1,
+        "character": {
+          "friendly": 50,
+          "energy": 70,
+          "health": 60,
+          "anger" : 20,
+          "shy" : 40
+        },
+        "img": "https://images.unsplash.com/photo-1537151608828-ea2b11777ee8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGRvZ3N8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+        "bio": "This is my bio."
+  
+      },
+      {
+        "id": 5,
+        "name": "Chico",
+        "breed": "Terrier",
+        "age": 12,
+        "character": {
+          "friendly": 90,
+          "energy": 50,
+          "health": 40,
+          "anger" : 20,
+          "shy" : 30
+        },
+        "img": "https://images.unsplash.com/photo-1583511655826-05700d52f4d9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGRvZ3N8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+        "bio": "This is my bio."
+  
+      },
+      {
+        "id": 6,
+        "name": "Tekir",
+        "breed": "Mix",
+        "age": 7,
+        "character": {
+          "friendly": 10,
+          "energy": 60,
+          "health": 85,
+          "anger" : 90,
+          "shy" : 70
+        },
+        "img": "https://images.unsplash.com/photo-1548802673-380ab8ebc7b7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2F0c3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60",
+        "bio": "This is my bio."
+  
+      },
+      {
+        "id": 7,
+        "name": "Suzie",
+        "breed": "Mix",
+        "age": 1,
+        "character": {
+          "friendly": 60,
+          "energy": 50,
+          "health": 100,
+          "anger" : 25,
+          "shy" : 25
+        },
+        "img": "https://images.unsplash.com/photo-1536589961747-e239b2abbec2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGNhdHN8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+        "bio": "This is my bio."
+  
+      },
+      {
+        "id": 8,
+        "name": "Lola",
+        "breed": "Mix",
+        "age": 3,
+        "character": {
+          "friendly": 80,
+          "energy": 30,
+          "health": 90,
+          "anger" : 10,
+          "shy" : 10
+        },
+        "img": "https://images.unsplash.com/photo-1543852786-1cf6624b9987?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2F0c3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60",
+        "bio": "This is my bio."
+  
+      },
+      {
+        "id": 9,
+        "name": "Bonnie",
+        "breed": "Norwegian Forest",
+        "age": 9,
+        "character": {
+          "friendly": 20,
+          "energy": 18,
+          "health": 50,
+          "anger" : 70,
+          "shy" : 50
+        },
+        "img": "https://images.unsplash.com/photo-1573865526739-10659fec78a5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNhdHN8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+        "bio": "This is my bio."
+  
+      },
+      {
+        "id": 10,
+        "name": "Khaleesi",
+        "breed": "Mix",
+        "age": 14,
+        "character": {
+          "friendly": 10,
+          "energy": 88,
+          "health": 40,
+          "anger" : 30,
+          "shy" : 10
+        },
+        "img": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGNhdHN8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+        "bio": "This is my bio."
+  
+      }
+
+
+]

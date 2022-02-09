@@ -1,0 +1,51 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px;
+    text-decoration: none;
+    color: pink;
+ 
+}
+
+.header svg{
+    font-size: 40px;
+    margin-right: 100px;
+    transition: transform .2s;
+
+    
+
+}
+.header svg:hover{
+    transform: scale(1.5)}
+
+.headerdiv{
+    width: 500px;
+    height: 80px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    transition: transform .2s;
+    margin-right: 250px;
+    
+
+}
+.header a{
+    text-decoration: none;
+        font-weight: 400;
+        font-family: 'Bangers', cursive;
+        font-size: 70px;
+        letter-spacing: 10px;
+        text-shadow: 2px 2px 0px #2d303a, -2px -2px 0px #2d303a, -2px 2px 0px #2d303a, 2px -2px 0px #2d303a;
+        color: rgb(255, 255, 255);
+        
+        margin-left: -150px
+
+}
+.header a:hover{
+    color: pink;
+}
+.paw{
+    margin-right: 200px
+
+}
